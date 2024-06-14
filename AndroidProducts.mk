@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_guam.mk
+    $(LOCAL_DIR)/infinity_guam.mk
